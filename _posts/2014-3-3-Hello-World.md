@@ -1,6 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: A personal project I worded on
+    
+    I worked on a samll project after I finished 3 months of learning of JavaScrpt. It was a web game which simulate the popular game "Doodle Jump". It was pretty fun and I still remember the moment when I finished the project and got the game running. It was amazing!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
